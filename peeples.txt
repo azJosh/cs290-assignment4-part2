@@ -1,0 +1,12 @@
+
+Start: Mon, 23 Feb 2015 02:08:54 -0700
+End: Mon, 23 Feb 2015 02:35:54 -0700
+Tasks: fixed bug in the category filter
+
+Start: Sun, 22 Feb 2015 21:52:07 -0700
+End: Mon, 23 Feb 2015 02:08:54 -0700
+Tasks: completed interface and functions
+
+Start: Sun, 22 Feb 2015 03:30:00 -0700
+End: Sun, 22 Feb 2015 21:52:07 -0700
+Tasks: created main.php and functions.php
